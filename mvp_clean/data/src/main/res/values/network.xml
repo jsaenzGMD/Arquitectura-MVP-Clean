@@ -1,0 +1,22 @@
+<resources>
+
+        <integer name="read_timeout">60</integer>
+        <integer name="connect_timeout">60</integer>
+
+        <!--WEBSERVICES-->
+        <string name="endpoint_login">/LoginAppGrua.ashx</string>
+
+        <!--DESARROLLO -->
+        <!--<string name="protocol_mvpclean">http://</string>
+        <string name="host_mvpclean">2172.21.158.141</string>
+        <string name="context_mvpcleanapp">/ACEROS_AREQUIPA_M/CargaAndroidGrua</string>-->
+
+        <string name="protocol_mvpclean">http://</string>
+        <string name="host_mvpclean">demosdata.entel.pe</string>
+        <string name="context_mvpcleanapp">/demo_cus_desp/corp_aceros_arequipa/mobile/CargaAndroidGrua</string>
+
+        <!-- DUMMY -->
+        <!--<string name="protocol_multired">http://</string>
+        <string name="host_multired">2172.21.158.141</string>
+        <string name="context_multiredapp">/ACEROS_AREQUIPA_M/CargaAndroidGrua/</string>-->
+</resources>

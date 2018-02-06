@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">mvp_clean</string>
+
+    <string name="dialog_title_default">@string/app_name</string>
+    <string name="md_posite_custom_text">ACEPTAR</string>
+    <string name="md_cancel_custom_text">@string/cancel</string>
+
+    <!--TITTLE MESSAGE-->
+    <string name="error">ERROR</string>
+
+    <string name="activate">ACTIVAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="cancel_m">Cancelar</string>
+    <string name="update">Actualizar</string>
+    <string name="accept">ACEPTAR</string>
+    <string name="later">Después</string>
+    <string name="go">IR</string>
+    <string name="yes">SI</string>
+    <string name="not">NO</string>
+    <string name="log_out">CERRAR SESIÓN</string>
+
+    <!-- MESSAGE -->
+    <string name="msg_app_localizacion_required">Debe activar su ubicacion para continuar con la operación</string>
+    <string name="msg_app_title_localizacion_required">Activar Localización</string>
+</resources>

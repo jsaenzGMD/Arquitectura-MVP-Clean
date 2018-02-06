@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shape android:shape="rectangle">
+        <solid
+            android:color="@color/button_yellow_disabled_color" />
+        <padding
+            android:bottom="@dimen/button_yellow_padding_vertical"
+            android:left="@dimen/button_yellow_padding_horizontal"
+            android:right="@dimen/button_yellow_padding_horizontal"
+            android:top="@dimen/button_yellow_padding_vertical" />
+        <corners
+            android:radius="@dimen/login_button_signin_radius" >
+        </corners>
+    </shape>
+</inset>

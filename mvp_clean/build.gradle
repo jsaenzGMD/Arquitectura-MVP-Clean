@@ -1,0 +1,41 @@
+apply from: 'buildsystem/dependencies.gradle'
+
+buildscript {
+
+    repositories {
+        jcenter()
+        //mavenCentral()
+        maven {
+            url 'https://jitpack.io'
+        }
+        maven {
+            url 'https://maven.google.com'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath 'org.greenrobot:greendao-gradle-plugin:3.2.1'
+    }
+}
+
+allprojects {
+    ext {
+        androidApplicationId = 'pe.android.com.mvp_clean'
+        androidVersionCode = 1
+        androidVersionName = "1.0"
+        androidTestApplicationId = 'pe.android.com.mvp_clean.test'
+
+        mvpCleanApplicationId = '.mvp_clean'
+        mvpCleanVersionCode = 4
+        mvpCleanVersionName = "1.4"
+        mvpCleanTestApplicationId = '.mvp_clean.test'
+
+        testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
+        useSupportLibrary = true
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
