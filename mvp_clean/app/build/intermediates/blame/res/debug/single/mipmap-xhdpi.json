@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_falla.png",
+        "source": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\src\\main\\res\\mipmap-xhdpi\\ic_falla.png"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_correcto.png",
+        "source": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\src\\main\\res\\mipmap-xhdpi\\ic_correcto.png"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="encrypted_bd">true</bool>
+    <string name="name_bd">mvpClean-db</string>
+    <string name="password_bd">super-secret</string>
+</resources>
