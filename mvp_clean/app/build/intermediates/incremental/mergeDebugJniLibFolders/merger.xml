@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\debug\jniLibs"/></dataSet></merger>

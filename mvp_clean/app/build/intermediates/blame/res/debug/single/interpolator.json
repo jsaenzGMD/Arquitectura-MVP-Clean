@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\70ebff49a6039e543a419ca40cf94d88f0584dee\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\70ebff49a6039e543a419ca40cf94d88f0584dee\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
     },
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\70ebff49a6039e543a419ca40cf94d88f0584dee\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\70ebff49a6039e543a419ca40cf94d88f0584dee\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
     }
 ]

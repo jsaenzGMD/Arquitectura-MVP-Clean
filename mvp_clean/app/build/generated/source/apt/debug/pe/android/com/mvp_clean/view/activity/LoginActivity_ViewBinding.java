@@ -16,7 +16,7 @@ import pe.android.com.mvp_clean.R;
 public class LoginActivity_ViewBinding implements Unbinder {
   private LoginActivity target;
 
-  private View view2131689690;
+  private View view2131689693;
 
   @UiThread
   public LoginActivity_ViewBinding(LoginActivity target) {
@@ -32,7 +32,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     target.edtPassword = Utils.findRequiredViewAsType(source, R.id.edtPassword, "field 'edtPassword'", EditText.class);
     view = Utils.findRequiredView(source, R.id.btnIngresar, "field 'btnIngresar' and method 'onClickBtnIngresar'");
     target.btnIngresar = Utils.castView(view, R.id.btnIngresar, "field 'btnIngresar'", Button.class);
-    view2131689690 = view;
+    view2131689693 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -52,7 +52,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     target.edtPassword = null;
     target.btnIngresar = null;
 
-    view2131689690.setOnClickListener(null);
-    view2131689690 = null;
+    view2131689693.setOnClickListener(null);
+    view2131689693 = null;
   }
 }

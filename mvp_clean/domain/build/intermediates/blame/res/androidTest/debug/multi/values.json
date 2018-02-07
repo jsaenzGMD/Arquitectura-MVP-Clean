@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\domain\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\domain\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\domain\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\domain\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

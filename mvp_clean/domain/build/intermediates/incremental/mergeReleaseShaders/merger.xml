@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\domain\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\domain\src\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\domain\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\domain\src\release\shaders"/></dataSet></merger>

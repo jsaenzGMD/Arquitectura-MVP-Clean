@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\jsaenz\.android\build-cache\22a318109c05e80dce92d943d2cf531dfc498535\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\jsaenz\.android\build-cache\ecb651d2fd276daf07de612922731c5121395f54\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\jsaenz\.android\build-cache\181b816391371840f0053dbc2b564d93f287c712\output\AndroidManifest.xml:4:5-78
@@ -33,21 +33,21 @@ MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\jsaenz\.android\b
 MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\jsaenz\.android\build-cache\7d7884862c1c3968d65e26b45a0654788c27b9ec\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\jsaenz\.android\build-cache\aa2875e02f497abd6ecfa00777b0462291449182\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.CAMERA
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:8:22-62
 uses-permission#android.permission.DISABLE_KEYGUARD
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:9:5-75
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:9:22-72
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:10:5-71
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:10:5-71
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:10:22-68
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:10:22-68
 uses-permission#android.permission.INTERNET
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\jsaenz\.android\build-cache\22a318109c05e80dce92d943d2cf531dfc498535\output\AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\jsaenz\.android\build-cache\ecb651d2fd276daf07de612922731c5121395f54\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\jsaenz\.android\build-cache\dcf50da4b8a9740bdf0f5854c7bd6fdb072a757d\output\AndroidManifest.xml:18:5-66
@@ -61,40 +61,40 @@ MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\jsaenz\.android\b
 MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\jsaenz\.android\build-cache\7d7884862c1c3968d65e26b45a0654788c27b9ec\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\jsaenz\.android\build-cache\aa2875e02f497abd6ecfa00777b0462291449182\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:12:5-75
-MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:11:5-75
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:12:5-75
+MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:11:5-75
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:12:22-72
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:12:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.SEND_SMS
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:14:5-67
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:15:5-66
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:15:5-66
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:15:22-63
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:15:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:16:5-68
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:16:5-68
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\jsaenz\.android\build-cache\ecb651d2fd276daf07de612922731c5121395f54\output\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\jsaenz\.android\build-cache\9dd2ac00404d7fa82c66a6934c1957b5ca7bb5a0\output\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\jsaenz\.android\build-cache\1d942878253967e605148a3f6e5543a138d02136\output\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\jsaenz\.android\build-cache\04651d8c65db1bd641443b38bd2477775b1ae5c0\output\AndroidManifest.xml:21:5-67
 MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\jsaenz\.android\build-cache\7d7884862c1c3968d65e26b45a0654788c27b9ec\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:16:22-65
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:17:5-81
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:17:22-78
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:17:22-78
 application
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:18:5-38:19
-MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:13:5-47
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:18:5-38:19
+MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:13:5-47
 MERGED from [com.android.support:design:26.1.0] C:\Users\jsaenz\.android\build-cache\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\output\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:transition:26.1.0] C:\Users\jsaenz\.android\build-cache\898d5241b3d550e7c30262a23a9b176dd7d406b3\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\jsaenz\.android\build-cache\a74ba5d6cc0f418045a34b00722265c8e436cf80\output\AndroidManifest.xml:22:5-26:19
@@ -154,47 +154,47 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jsaenz\.androi
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jsaenz\.android\build-cache\4cf1644290fd0e02a5f4d7edad87dca840a72fc6\output\AndroidManifest.xml:25:5-29:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jsaenz\.android\build-cache\1cf2be5b4817713c4b2187f380cd4eab464f5d96\output\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:22:9-41
 	android:supportsRtl
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:25:9-35
 	android:roundIcon
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:24:9-54
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:24:9-54
 	android:allowBackup
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:21:9-43
 	android:largeHeap
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:23:9-33
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:23:9-33
 	android:theme
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:26:9-40
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:26:9-40
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:19:9-43
 activity#pe.android.com.mvp_clean.view.activity.PrincipalActivity
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:27:9-29:20
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:27:9-29:20
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:27:19-66
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:27:19-66
 activity#pe.android.com.mvp_clean.view.activity.LoginActivity
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:30:9-65
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:30:9-65
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:30:19-62
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:30:19-62
 activity#pe.android.com.mvp_clean.view.activity.SplashActivity
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:31:9-37:20
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:31:19-63
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:31:19-63
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [mvp_clean:domain:unspecified] D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\domain\build\intermediates\bundles\default\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [mvp_clean:data:unspecified] D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\data\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [mvp_clean:domain:unspecified] D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\domain\build\intermediates\bundles\default\AndroidManifest.xml:6:5-8:41
 MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\jsaenz\.android\build-cache\53e3125af5c4384717cfc547548d738c43c64332\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:26.1.0] C:\Users\jsaenz\.android\build-cache\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:transition:26.1.0] C:\Users\jsaenz\.android\build-cache\898d5241b3d550e7c30262a23a9b176dd7d406b3\output\AndroidManifest.xml:20:5-44
@@ -270,11 +270,11 @@ MERGED from [com.android.support:multidex:1.0.0] C:\Users\jsaenz\.android\build-
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\jsaenz\.android\build-cache\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\SVN\Arquitectura MVP Clean\mvp_clean_android\Arquitectura Limpia\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SVN\Arquitectura MVP Clean\Fuentes GIT\Arquitectura-MVP-Clean\mvp_clean\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\jsaenz\.android\build-cache\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\output\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:transition:26.1.0] C:\Users\jsaenz\.android\build-cache\898d5241b3d550e7c30262a23a9b176dd7d406b3\output\AndroidManifest.xml:23:9-25:38

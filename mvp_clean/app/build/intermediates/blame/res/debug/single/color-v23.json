@@ -1,42 +1,42 @@
 [
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\\output\\res\\color-v23\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\ec0e8bd9278cab1969d2608281fb48ecca0c7bd8\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\SVN\\Arquitectura MVP Clean\\mvp_clean_android\\Arquitectura Limpia\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\SVN\\Arquitectura MVP Clean\\Fuentes GIT\\Arquitectura-MVP-Clean\\mvp_clean\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\jsaenz\\.android\\build-cache\\cfb1df60a1e62c9dea7173c21cdd23e067a732c3\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     }
 ]
